@@ -1,0 +1,72 @@
+[
+  {
+    "receipt_no":"111462-69",
+    "company_code":"009",
+    "request_id":111462,
+    "idc_code":"14825",
+    "contract_no":"M7-01-014CJM",
+    "status":"A",
+    "receipted_user":"thanujans",
+    "receipted_amount":"1",
+    "receipted_date":"2017-02-28 16:59:06",
+    "cust_attendance":"P",
+    "imei_no":"359475075386483",
+    "token":"6e49433d4c8ddf3b0e4e8b064230966d"
+  },
+  {
+    "receipt_no":"111462-69",
+    "company_code":"009",
+    "request_id":111462,
+    "idc_code":"14825",
+    "contract_no":"M7-01-014CJM",
+    "status":"A",
+    "receipted_user":"thanujans",
+    "receipted_amount":"1",
+    "receipted_date":"2017-02-28 16:59:06",
+    "cust_attendance":"P",
+    "imei_no":"359475075386483",
+    "token":"6e49433d4c8ddf3b0e4e8b064230966d"
+  },
+  {
+    "receipt_no":"111462-69",
+    "company_code":"009",
+    "request_id":111462,
+    "idc_code":"14825",
+    "contract_no":"M7-01-014CJM",
+    "status":"A",
+    "receipted_user":"thanujans",
+    "receipted_amount":"1",
+    "receipted_date":"2017-02-28 16:59:06",
+    "cust_attendance":"P",
+    "imei_no":"359475075386483",
+    "token":"6e49433d4c8ddf3b0e4e8b064230966d"
+  },
+  {
+    "receipt_no":"111462-69",
+    "company_code":"009",
+    "request_id":111462,
+    "idc_code":"14825",
+    "contract_no":"M7-01-014CJM",
+    "status":"A",
+    "receipted_user":"thanujans",
+    "receipted_amount":"1",
+    "receipted_date":"2017-02-28 16:59:06",
+    "cust_attendance":"P",
+    "imei_no":"359475075386483",
+    "token":"6e49433d4c8ddf3b0e4e8b064230966d"
+  },
+  {
+    "receipt_no":"111462-69",
+    "company_code":"009",
+    "request_id":111462,
+    "idc_code":"14825",
+    "contract_no":"M7-01-014CJM",
+    "status":"A",
+    "receipted_user":"thanujans",
+    "receipted_amount":"1",
+    "receipted_date":"2017-02-28 16:59:06",
+    "cust_attendance":"P",
+    "imei_no":"359475075386483",
+    "token":"6e49433d4c8ddf3b0e4e8b064230966d"
+  }
+]
